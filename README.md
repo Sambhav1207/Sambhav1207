@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sambhav
-- 🌱 I’m currently learning Android Dev
+- 🌱 Data Science and Software Development Enthusiast
 
 <!---
 Sambhav1207/Sambhav1207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
