@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **guptasambhav1207@gmail.com**
 
-- 📄 Know about my experiences [https://pdfhost.io/v/Zin~dU7eY_Deedy_CV](https://pdfhost.io/v/Zin~dU7eY_Deedy_CV)
+- 📄 Know about my experiences [My CV](https://pdfhost.io/v/Zin~dU7eY_Deedy_CV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
