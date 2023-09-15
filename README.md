@@ -2,7 +2,7 @@
 <h3 align="center">Data Science and Software Development Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-- 👨‍💻 All of my projects are available at [https://thriving-cupcake-21c5d5.netlify.app/](https://thriving-cupcake-21c5d5.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://thriving-cupcake-21c5d5.netlify.app/)
 
 - 📫 How to reach me **guptasambhav1207@gmail.com**
 
