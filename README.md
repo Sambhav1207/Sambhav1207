@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **guptasambhav1207@gmail.com**
 
-- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Q7hTqYnO4HOwphJZmf96P-9tRhpULFP5/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1UicueQcuEGVcH11M9k41E9DJvM0vQwO2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
